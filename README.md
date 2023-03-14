@@ -1,9 +1,9 @@
 <img src="./assets/ignite-feed.png" alt="Imagem do banner ignite feed" />
 
 <p align="center">
-  <img alt="Repo size"  src="https://img.shields.io/github/repo-size/geovaneborba/rocketseat-ignite-feed?color=4f46e5&style=for-the-badge">
-  <img alt="GitHub top language"  src="https://img.shields.io/github/languages/top/geovaneborba/rocketseat-ignite-feed?color=4f46e5&style=for-the-badge"> <img alt="GitHub language count"  src="https://img.shields.io/github/languages/count/geovaneborba/rocketseat-ignite-feed?color=4f46e5&style=for-the-badge">
-  <img alt="Licença" src="https://img.shields.io/github/license/geovaneborba/rocketseat-ignite-feed?color=4f46e5&style=for-the-badge">
+  <img alt="Repo size"  src="https://img.shields.io/github/repo-size/geovaneborba/ignite-feed?color=4f46e5&style=for-the-badge">
+  <img alt="GitHub top language"  src="https://img.shields.io/github/languages/top/geovaneborba/ignite-feed?color=4f46e5&style=for-the-badge"> <img alt="GitHub language count"  src="https://img.shields.io/github/languages/count/geovaneborba/ignite-feed?color=4f46e5&style=for-the-badge">
+  <img alt="Licença" src="https://img.shields.io/github/license/geovaneborba/ignite-feed?color=4f46e5&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -52,10 +52,10 @@ Antes de começar, você precisa ter o [Git](https://git-scm.com) e o [Node](htt
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/geovaneborba/rocketseat-ignite-feed.git
+$ git clone https://github.com/geovaneborba/ignite-feed.git
 
 # Entre na pasta
-$ cd rocketseat-ignite-feed
+$ cd ignite-feed
 
 # Instale as dependências
 $ npm install
